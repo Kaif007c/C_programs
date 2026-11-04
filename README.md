@@ -1,6 +1,8 @@
-# Beginner C Programs — Complete Collection (1–270)
+# C Programs — Complete Collection (1–270)
 
 Organized into 20 level folders. Every numbered exercise is a standalone `.c` source file.
+
+## From Hello World to Advanced level codes 
 
 ## Compile and run
 GCC:
@@ -23,3 +25,5 @@ For files using `math.h`, add `-lm` on systems where the math library must be li
 - Counting sort example supports non-negative integers.
 - The password-protected file example uses the demonstration password `cpractice2026`; change it before any real use. It is not secure authentication.
 - These are educational console examples, not production-ready systems. Some project examples use in-memory records and do not persist data unless file handling is explicitly included.
+
+- 
